@@ -1,3 +1,5 @@
 Laboratory 5: GitHub, GitLab and Bitbucket
 Service: github
 Working branch: new-branch
+
+Step 2: add a separate commit on the working branch.
